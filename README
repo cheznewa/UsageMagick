@@ -1,6 +1,6 @@
 Inspired From Usage ImageMagck By Anthony Thyssen :::::: https://legacy.imagemagick.org/Usage/
 This Is Can Make Own ImageMagick Or GraphicsMagick Tutorial Purpose, It Recording With Asciinema And Can Upload Your Tutorial
 
-Before Please Clone https://github.com/tokland/arch-bootstrap And Place Into It, Run Begin In Admin prepareusagemagick.bash Then You Can Make Tutorial With recordusagemagick.bash $1 Usage ImageMagick.
+Before Please Clone https://github.com/cheznewa/arch-bootstrap And Place Into It, Run Begin In Admin prepareusagemagick.bash Then You Can Make Tutorial With recordusagemagick.bash $1 Usage ImageMagick.
 
 Using linux-user-chroot Instead chroot.
